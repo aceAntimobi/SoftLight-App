@@ -1,0 +1,35 @@
+{
+    "name": "Soft Light",
+    "short_name": "Soft Light",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#070A11",
+    "theme_color": "#070A11",
+    "description": "Soft Light turns your browser into a soft, adjustable light for selfies, video calls, and low-light scenes.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

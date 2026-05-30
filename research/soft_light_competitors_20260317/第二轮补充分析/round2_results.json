@@ -1,0 +1,52 @@
+[
+  {
+    "package": "com.display.light.TableLamp",
+    "status": "ok",
+    "notes": [
+      "安装并运行成功",
+      "首屏为教程页，后续已进入真实主界面",
+      "主界面包含 brightness、timer、color、relax、more"
+    ],
+    "artifacts": {
+      "screenshots": [
+        "/Users/all/Documents/dev/soft_light/research/soft_light_competitors_20260317/第二轮补充分析/com.display.light.TableLamp/screenshots/shot_001.png",
+        "/Users/all/Documents/dev/soft_light/research/soft_light_competitors_20260317/第二轮补充分析/com.display.light.TableLamp/screenshots/shot_003.png"
+      ],
+      "ui_dumps": [
+        "/Users/all/Documents/dev/soft_light/research/soft_light_competitors_20260317/第二轮补充分析/com.display.light.TableLamp/ui_dumps/ui_001.xml",
+        "/Users/all/Documents/dev/soft_light/research/soft_light_competitors_20260317/第二轮补充分析/com.display.light.TableLamp/ui_dumps/ui_003.xml"
+      ]
+    }
+  },
+  {
+    "package": "com.studio360apps.screen.flashlight",
+    "status": "partial",
+    "notes": [
+      "安装成功",
+      "运行态被导向 com.android.vending 登录页",
+      "静态拆解显示存在 candleEffect、sleepTimerMinutes、BrightnessGestureLearned"
+    ],
+    "artifacts": {
+      "ui_dumps": [
+        "/Users/all/Documents/dev/soft_light/research/soft_light_competitors_20260317/第二轮补充分析/com.studio360apps.screen.flashlight/ui_dumps/ui_001.xml"
+      ],
+      "manifest": "/Users/all/Documents/dev/soft_light/research/soft_light_competitors_20260317/第二轮补充分析/apks/extracted/Y29tLnN0dWRpbzM2MGFwcHMuc2NyZWVuLmZsYXNobGlnaHRfMTIzMDBfYWExOTM3MjA/manifest.json"
+    }
+  },
+  {
+    "package": "com.ryosakata.reading_light",
+    "status": "ok",
+    "notes": [
+      "安装并运行成功",
+      "运行态可读到 warm、cold、Sleep Timer、亮度数值"
+    ],
+    "artifacts": {
+      "screenshots": [
+        "/Users/all/Documents/dev/soft_light/research/soft_light_competitors_20260317/第二轮补充分析/com.ryosakata.reading_light/screenshots/shot_001.png"
+      ],
+      "ui_dumps": [
+        "/Users/all/Documents/dev/soft_light/research/soft_light_competitors_20260317/第二轮补充分析/com.ryosakata.reading_light/ui_dumps/ui_001.xml"
+      ]
+    }
+  }
+]

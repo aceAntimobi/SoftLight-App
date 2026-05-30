@@ -1,0 +1,25 @@
+{
+  "apps": [
+    {
+      "name": "cz.nowi.whitescreen",
+      "package": "cz.nowi.whitescreen",
+      "source_url": "https://play.google.com/store/apps/details?id=cz.nowi.whitescreen"
+    },
+    {
+      "name": "com.jkfantasy.screen.jkpscreenlight",
+      "package": "com.jkfantasy.screen.jkpscreenlight",
+      "source_url": "https://play.google.com/store/apps/details?id=com.jkfantasy.screen.jkpscreenlight"
+    },
+    {
+      "name": "com.bbtoolsfactory.whitescreen",
+      "package": "com.bbtoolsfactory.whitescreen",
+      "source_url": "https://play.google.com/store/apps/details?id=com.bbtoolsfactory.whitescreen"
+    },
+    {
+      "name": "com.shyri.whitescreenapp",
+      "package": "com.shyri.whitescreenapp",
+      "source_url": "https://play.google.com/store/apps/details?id=com.shyri.whitescreenapp"
+    }
+  ],
+  "unresolved_urls": []
+}
